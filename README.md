@@ -9,4 +9,3 @@
   * Gaussian Classifiers from scratch
   * Grid Search using SVM from scratch
   * ...
-adasd
