@@ -8,4 +8,5 @@
   * Shallow Neural Network from scratch
   * Gaussian Classifiers from scratch
   * Grid Search using SVM from scratch
+  * Apriori algorithm
   * ...
